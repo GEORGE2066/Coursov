@@ -25,7 +25,7 @@ public class Employy {
 
 
 
-    /*GETTER`S*/
+    /*GETTERS*/
 
     public int getDepartment() {
         return department;
